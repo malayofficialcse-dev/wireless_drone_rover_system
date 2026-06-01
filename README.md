@@ -7,6 +7,16 @@
   <img src="images/baner5.png" alt="System Architecture" width="100%">
 </p>
 
+<p align="center">
+  <img src="images/baner6.png" alt="System Architecture" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/baner7.png" alt="System Architecture" width="100%">
+</p>
+
+
+
 The ESP8266 Drone and Rover Control System is an IoT-based web-controlled robotics platform designed to manage both a ground rover and a quadcopter drone through a single web interface. The system utilizes the ESP8266 Wi-Fi module as the central controller, allowing users to send commands from any device connected to the same network.
 
 The platform provides:
