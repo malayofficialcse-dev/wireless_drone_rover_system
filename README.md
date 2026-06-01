@@ -1,4 +1,3 @@
-# wireless_drone_rover_system
 # ESP8266 Drone and Rover Control System
 
 ## Overview
@@ -8,8 +7,13 @@
 </p>
 
 <p align="center">
+  <img src="images/baner8.png" alt="System Architecture" width="100%">
+</p>
+
+<p align="center">
   <img src="images/baner6.png" alt="System Architecture" width="100%">
 </p>
+
 
 <p align="center">
   <img src="images/baner7.png" alt="System Architecture" width="100%">
